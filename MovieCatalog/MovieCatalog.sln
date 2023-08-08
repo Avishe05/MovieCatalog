@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Movie.Catalog.DataSeeder", "Movie.Catalog.DataSeeder", "{B0F538C3-66F1-47EE-87A2-17198B7DC80B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Movie.Catalog.ConsoleApp", "Movie.Catalog.ConsoleApp", "{E7518C35-F30C-473E-912E-7C28E5BF3113}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Movie.Catalog.Data", "Movie.Catalog.Data", "{5A98D1BF-C634-45BC-AE0F-D51D7529FFAA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Movie.Catalog.FormApplication", "Movie.Catalog.FormApplication", "{B1350F9B-D3F0-4278-853B-621213F49936}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Movie.Catalog.Models", "Movie.Catalog.Models", "{603E740E-470C-4282-A2FA-6D9D316A14F9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Movie.Catalog.Services", "Movie.Catalog.Services", "{2F5B84BC-F69C-4980-B493-A48854BA82AD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Movie.Catalog.ViewModels", "Movie.Catalog.ViewModels", "{50F40AF5-E01F-429A-8EFA-A9B74FC7027B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Movie.Catalog.WebApp", "Movie.Catalog.WebApp", "{EDC2128D-6147-4ABB-8A24-2137825C90E4}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBB6C416-9D20-49EF-9D35-DE8EC643B6DB}
+	EndGlobalSection
+EndGlobal
